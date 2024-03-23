@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "corneliusubong",
+  "repo": "container-tqshecc",
+  "name": "corneliusubong",
+  "email": "ecornelius.edwards@gmail.com",
+}
